@@ -1,3 +1,3 @@
 <?php
 
-echo "Sliece is golden.";
+echo "Actually silence is golden.";
